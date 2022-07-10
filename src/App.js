@@ -10,7 +10,7 @@ import Cv from './reactPages/Cv'
 function App() {
   return (
     <div className="App">
-      <Routes>
+      <Routes basemname ={'/${process.env.PUBLIC.URL}'}>
         <Route path="/" element={<Navigate to="/labb2/aboutme"></Navigate>}/>          
         <Route path="/labb2/aboutme" element = {<AboutMe/>}/>
         <Route path="/labb2/cv" element = {<Cv/>}/>
