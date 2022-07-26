@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/labb2-dynamisk-cv-sida/precache-manifest.70e84dba5e3eedb621612842e565730c.js"
+  "/labb2-dynamisk-cv-sida/precache-manifest.204583e0effffccd888194714960654e.js"
 );
 
 workbox.clientsClaim();

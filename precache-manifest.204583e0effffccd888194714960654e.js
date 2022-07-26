@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/labb2-dynamisk-cv-sida/static/js/runtime~main.854605fb.js"
   },
   {
-    "revision": "231f13490ada4115c5acf1d9d1cef012",
+    "revision": "fb65daf0ce6a3fca565d6806a96ba075",
     "url": "/labb2-dynamisk-cv-sida/index.html"
   }
 ];
