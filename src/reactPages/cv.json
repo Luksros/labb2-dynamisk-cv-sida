@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "category": "Anställningar",
+      "content": [
+                  {"name": "Ge-kås Ullared",
+                    "type": "Säsongsanställning",
+                    "time": "20111101 - 20111231",
+                    "description": "Butiksbiträde - Påfyllning av varor i butiken."},
+                  {"name": "Kött- och Fiskrest. Campus",
+                    "type": "Timanställning",
+                    "time": "20140724 - 20141016",
+                    "description": "Restaurangbiträde – Kassatjänst, portionering och diskplockning."},
+                  {"name": "Carlings Varberg",
+                    "type": "Timanställning",
+                    "time": "20160120 – 20160628",
+                    "description": "Säljare – Kassatjänst, hitta rätt produkter för kunden, lagerarbete."},
+                  {"name": "Kjell & Company Varberg",
+                    "type": "Fast Timanställning",
+                    "time": "20141121 - 20210829",
+                    "description": "Säljare – Kassatjänst, hitta rätt produkter för kunden, lagerarbete."}
+                  ]
+    },
+    {
+      "id": 2,
+      "category": "Utbildningar",
+      "content": [
+                    {"name": "Ljud och Bildskolan Varberg",
+                     "type": "Gymnasie",
+                     "time": "2011 - 2014",
+                     "description": "Musikproduktion"},
+                    {"name": "Campus Varberg",
+                     "type": "Yrkeshögskola",
+                     "time": "2021 - 2023",
+                     "description": "Systemutvecklare .NET"}
+                 ]
+    }
+  ]
