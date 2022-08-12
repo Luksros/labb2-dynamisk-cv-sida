@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "e13c02902a0a4fa00464",
+    "revision": "738e29614fb50a0c01dc",
     "url": "/labb2-dynamisk-cv-sida/static/css/main.8ea8ae60.chunk.css"
   },
   {
-    "revision": "e13c02902a0a4fa00464",
-    "url": "/labb2-dynamisk-cv-sida/static/js/main.e13c0290.chunk.js"
+    "revision": "738e29614fb50a0c01dc",
+    "url": "/labb2-dynamisk-cv-sida/static/js/main.738e2961.chunk.js"
   },
   {
     "revision": "fe8104d9b7ea19c8e84c",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/labb2-dynamisk-cv-sida/static/js/runtime~main.854605fb.js"
   },
   {
-    "revision": "adc6b3d7360083d27b4d8e61c8f87cbd",
+    "revision": "cf936a590958df9b32ed5c2d0cce9580",
     "url": "/labb2-dynamisk-cv-sida/index.html"
   }
 ];

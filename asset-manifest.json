@@ -1,13 +1,13 @@
 {
   "main.css": "/labb2-dynamisk-cv-sida/static/css/main.8ea8ae60.chunk.css",
-  "main.js": "/labb2-dynamisk-cv-sida/static/js/main.e13c0290.chunk.js",
-  "main.js.map": "/labb2-dynamisk-cv-sida/static/js/main.e13c0290.chunk.js.map",
+  "main.js": "/labb2-dynamisk-cv-sida/static/js/main.738e2961.chunk.js",
+  "main.js.map": "/labb2-dynamisk-cv-sida/static/js/main.738e2961.chunk.js.map",
   "static/js/1.fe8104d9.chunk.js": "/labb2-dynamisk-cv-sida/static/js/1.fe8104d9.chunk.js",
   "static/js/1.fe8104d9.chunk.js.map": "/labb2-dynamisk-cv-sida/static/js/1.fe8104d9.chunk.js.map",
   "runtime~main.js": "/labb2-dynamisk-cv-sida/static/js/runtime~main.854605fb.js",
   "runtime~main.js.map": "/labb2-dynamisk-cv-sida/static/js/runtime~main.854605fb.js.map",
   "static/css/main.8ea8ae60.chunk.css.map": "/labb2-dynamisk-cv-sida/static/css/main.8ea8ae60.chunk.css.map",
   "index.html": "/labb2-dynamisk-cv-sida/index.html",
-  "precache-manifest.65b19c8f45489abb5eb6eea124c10189.js": "/labb2-dynamisk-cv-sida/precache-manifest.65b19c8f45489abb5eb6eea124c10189.js",
+  "precache-manifest.40532bc418f8e5ced19b45c2dc3512f0.js": "/labb2-dynamisk-cv-sida/precache-manifest.40532bc418f8e5ced19b45c2dc3512f0.js",
   "service-worker.js": "/labb2-dynamisk-cv-sida/service-worker.js"
 }
