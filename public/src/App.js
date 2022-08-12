@@ -1,4 +1,4 @@
-import {Routes,Route,Navigate, Switch} from "react-router-dom";
+import {Routes,Route,Navigate} from "react-router-dom";
 import React from 'react';
 import AboutMe from './reactPages/AboutMe'
 import Interviews from './reactPages/Interviews'
