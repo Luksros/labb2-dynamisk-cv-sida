@@ -84,7 +84,7 @@ function AboutMe(){
             <ul>
                 <li>
                     <div className = "aboutPicContainer">              
-                        <img src="https://scontent.fbma1-1.fna.fbcdn.net/v/t1.6435-9/78683730_598232014263059_2697187239380647936_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=cdbe9c&_nc_ohc=ml4OcCkAnwsAX-lfQNy&_nc_ht=scontent.fbma1-1.fna&oh=00_AT9DfuJN3l1s3r6xUXcuBD6YObRwV6lozsKiyGFhSlfdAA&oe=62E461AC" alt="Clockvice DJing at Umra Unleashed event, at Dynamo in Eindhoven"/>    
+                        <img src="https://scontent.fbma1-1.fna.fbcdn.net/v/t1.6435-9/78683730_598232014263059_2697187239380647936_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=cdbe9c&_nc_ohc=NDW8dPB9NIMAX9kBXXS&_nc_ht=scontent.fbma1-1.fna&oh=00_AT-UpDGQ8JJFviR_B_ZlVnPwxTaNZkSWdoqnLUzyc7mnoA&oe=631BC0AC" alt="Clockvice DJing at Umra Unleashed event, at Dynamo in Eindhoven"/>    
                     </div>
                 </li>
             </ul>  
