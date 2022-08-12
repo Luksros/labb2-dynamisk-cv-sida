@@ -19,7 +19,7 @@ function Portfolio(){
                         <h4>Lukas Rose</h4>
                     </div>
                     <ul className="navlinks">
-                    <li>
+                        <li>
                     <Link to = "/aboutme">Om Mig</Link>
                 </li>
                 <li>

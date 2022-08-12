@@ -19,24 +19,24 @@ function Cv(){
                 <h4>Lukas Rose</h4>
             </div>
             <ul className="navlinks">
-                <li>
-                    <Link to = "/labb2/aboutme">Om Mig</Link>
+            <li>
+                    <Link to = "/">Om Mig</Link>
                 </li>
                 <li>
-                    <Link to = "/labb2/cv">CV</Link>
+                    <Link to = "/cv">CV</Link>
                 </li>
                 <li>
-                    <Link to = "/labb2/portfolio">
+                    <Link to = "/portfolio">
                         Portfolio
                     </Link>
                 </li>
                 <li>
-                    <Link to ="/labb2/interviews">
+                    <Link to ="/interviews">
                         Intervjuer
                     </Link>
                 </li>
                 <li>
-                    <Link to = "/labb2/contact">
+                    <Link to = "/contact">
                         Kontakt
                     </Link>
                 </li>

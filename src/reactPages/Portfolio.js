@@ -19,27 +19,27 @@ function Portfolio(){
                         <h4>Lukas Rose</h4>
                     </div>
                     <ul className="navlinks">
-                        <li>
-                            <Link to = "/labb2/aboutme">Om Mig</Link>
-                        </li>
-                        <li>
-                            <Link to = "/labb2/cv">CV</Link>
-                        </li>
-                        <li>
-                            <Link to = "/labb2/portfolio">
-                                Portfolio
-                            </Link>
-                        </li>
-                        <li>
-                            <Link to ="/labb2/interviews">
-                                Intervjuer
-                            </Link>
-                        </li>
-                        <li>
-                            <Link to = "/labb2/contact">
-                                Kontakt
-                            </Link>
-                        </li>
+                    <li>
+                    <Link to = "/">Om Mig</Link>
+                </li>
+                <li>
+                    <Link to = "/cv">CV</Link>
+                </li>
+                <li>
+                    <Link to = "/portfolio">
+                        Portfolio
+                    </Link>
+                </li>
+                <li>
+                    <Link to ="/interviews">
+                        Intervjuer
+                    </Link>
+                </li>
+                <li>
+                    <Link to = "/contact">
+                        Kontakt
+                    </Link>
+                </li>
                     </ul>
                 </nav> 
                 <h1 className="main">

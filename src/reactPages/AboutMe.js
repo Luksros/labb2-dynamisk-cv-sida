@@ -48,7 +48,7 @@ function AboutMe(){
             </div>
             <ul className="navlinks">
                 <li>
-                    <Link to = "/aboutme">Om Mig</Link>
+                    <Link to = "/">Om Mig</Link>
                 </li>
                 <li>
                     <Link to = "/cv">CV</Link>
